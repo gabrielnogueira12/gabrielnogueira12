@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabrielnogueira12
 - 👀 I’m interested in learning how to programm things that will help people and experience a real coworking environment.
-- 🌱 I’m currently learning Python and a little bit of C++
+- 🌱 I'm actually working as a DevOps Engineer Intern in a AWS Parter, and also learning Python and a little bit of C++.
 - 💞️ I’m looking to collaborate on projects that I can use all that I'm learning.
-- 📫 How to reach me: on email (gabriel.nogueira142@gmail.com) or my instagram (@gabrielnogueira.12)
+- 📫 How to reach me: on email (gabriel.nogueira142@gmail.com) or my instagram (@gabrielnogueira.12).
 - 🕹️ I also like games, specially FPS games and MOBA.
 
 <!---
